@@ -18,6 +18,7 @@ const toolUrls = {
     '文心一言': 'https://yiyan.baidu.com',
     '秘塔AI搜索': 'https://metaso.cn',
     'Notion AI': 'https://www.notion.so',
+    'Remio': 'https://remio.ai',
     '印象笔记AI': 'https://www.yinxiang.com',
     'FlowUs AI': 'https://flowus.cn',
     '腾讯元宝': 'https://yuanbao.tencent.com',

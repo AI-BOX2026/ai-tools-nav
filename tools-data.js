@@ -682,6 +682,22 @@ const toolsData = [
         tips: "选中文字后按空格唤醒AI，比全局AI更精准"
     },
     {
+        id: 61,
+        name: "Remio",
+        category: "notes",
+        categoryName: "知识管理",
+        icon: "🧠",
+        tagline: "本地优先AI记忆与知识库",
+        rating: 4.5,
+        price: "免费+付费",
+        url: "https://remio.ai",
+        pros: ["索引文件、网页、会议、邮件和笔记", "本地索引和向量检索", "快速找回个人上下文", "适合个人知识管理和AI工作流"],
+        cons: ["需要安装桌面客户端", "团队协作能力不是主打"],
+        bestFor: "需要统一检索个人文件、网页、会议和笔记的人",
+        myExperience: "适合把散落在文件、网页、会议和笔记里的资料统一索引，需要上下文时直接找回关键片段。",
+        tips: "先把常用资料目录同步进去，再用本地索引找上下文，比反复翻文件更快"
+    },
+    {
         id: 44,
         name: "印象笔记AI",
         category: "notes",
